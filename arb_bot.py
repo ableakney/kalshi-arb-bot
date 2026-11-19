@@ -23,7 +23,7 @@ PAIRINGS = [
 ]
 
 MIN_ANNUALIZED_RETURN = 0.01   # 4% per year after fees
-MIN_CONTRACTS = 25             # Minimum number of pairs
+MIN_CONTRACTS = 10             # Minimum number of pairs
 MIN_TOTAL_PROFIT = 1.00        # Minimum profit in dollars
 FEE_RATE = 0.07                # Estimated taker fee rate
 
